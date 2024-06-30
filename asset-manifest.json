@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.9827fef1.css",
-    "main.js": "./static/js/main.3ee88f15.js",
+    "main.css": "./static/css/main.e408c3bb.css",
+    "main.js": "./static/js/main.8ef34669.js",
     "static/media/watch-1.png": "./static/media/watch-1.1a06de9a4a99566286f8.png",
     "static/media/phone-1.png": "./static/media/phone-1.a3a01150b70567ae56d6.png",
     "static/media/tablet-1.png": "./static/media/tablet-1.43a4865c020eea589ba5.png",
@@ -24,11 +24,11 @@
     "static/media/arrow.svg": "./static/media/arrow.e028d3889646e0b5e56c.svg",
     "index.html": "./index.html",
     "static/media/minus.svg": "./static/media/minus.cecb4be39afa7b933ec1.svg",
-    "main.9827fef1.css.map": "./static/css/main.9827fef1.css.map",
-    "main.3ee88f15.js.map": "./static/js/main.3ee88f15.js.map"
+    "main.e408c3bb.css.map": "./static/css/main.e408c3bb.css.map",
+    "main.8ef34669.js.map": "./static/js/main.8ef34669.js.map"
   },
   "entrypoints": [
-    "static/css/main.9827fef1.css",
-    "static/js/main.3ee88f15.js"
+    "static/css/main.e408c3bb.css",
+    "static/js/main.8ef34669.js"
   ]
 }
